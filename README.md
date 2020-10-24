@@ -22,8 +22,9 @@ Has a total of 3 full CRUDs
 [Postman](https://documenter.getpostman.com/view/12915900/TVYAgLa4)
 
 ### Frontend 📱
-The application can view images from the server. currently makes 2 full CRUDS. It has a floating menu with which to change sections.
+The application can view images from the server. currently makes 2 full CRUDS,Only need to implement the reservations section. It has a floating menu with which to change sections.
 ![alt text](https://github.com/monitv98/lux_hotel/blob/master/capturaMenu.png)
+
 
 ### Installing ▶️
 
