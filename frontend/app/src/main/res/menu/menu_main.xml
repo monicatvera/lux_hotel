@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.monica.luxHotel.MainActivity">
+    <item
+        android:id="@+id/room"
+        android:title="@string/room" />
+    <item
+        android:id="@+id/user"
+        android:title="@string/user" />
+    <item
+        android:id="@+id/booking"
+        android:title="@string/booking" />
+</menu>
